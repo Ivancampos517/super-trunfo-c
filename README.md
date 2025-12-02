@@ -26,7 +26,8 @@ Em um terminal cmd, dentro da pasta do projeto:
 
 ## Como executar
 comado: gcc jogo -o super_trunfo.c 
-## e em sesida digite o comado dentro do terminal cmd
+## E depois digite o comado dentro do terminal cmd
+
 jogo.exe 
 
 Depois de compilar:
